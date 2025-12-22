@@ -1,6 +1,6 @@
 streamlit
+opencv-python-headless
 ultralytics
 pandas
 numpy
-opencv-python-headless
-libgl1-mesa-glx
+watchdog
